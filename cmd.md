@@ -6,6 +6,16 @@ Git
 
 * [Working with submodules](https://github.com/blog/2104-working-with-submodules)
 
+OS X
+----
+
+
+* Status of disk encryption
+```bash
+diskutil cs list
+```
+
+
 Vim
 ---
 
