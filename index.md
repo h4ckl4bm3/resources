@@ -52,6 +52,7 @@ Online tools
 OSINT Resource lists
 --------------------
 
+* [osintframework](http://osintframework.com/) - Good collection with nice GUI for presentation
 * [IntelTechniques.com](https://inteltechniques.com/intel/menu.html) - Lots of links to many resources 
 * [Onstrat.com](http://www.onstrat.com/osint/) - Links for OSINT
 
