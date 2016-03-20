@@ -1,12 +1,18 @@
-Svenska
+Swedish
 =======
 
 * [Länksamling - Integritet, OPSEC, mm.](https://swehack.org/viewtopic.php?f=19&t=7) - av [swehack.org](https://swehack.org/)
 * [CERT-SE](https://www.cert.se/) med [megamap](https://www.cert.se/megamap)
 
-Söktjänster
------------
+Search
+------
 
 * [PTS](http://e-tjanster.pts.se/AcceptCookies.aspx?redirect=%2ftelefoni%2fnummertjanster%2fenskiltnummer) - Ta reda på vilken operatör ett telefonnummer tillhör.
 * [hitta.se](https://hitta.se/) - Adresser, kartor, gatubild.
+
+Statistics
+----------
+
+* [Netnod](https://www.netnod.se/ix/statistics)
+* [Sunet](http://stats.sunet.se/)
 
