@@ -56,3 +56,8 @@ OSINT Resource lists
 * [IntelTechniques.com](https://inteltechniques.com/intel/menu.html) - Lots of links to many resources 
 * [Onstrat.com](http://www.onstrat.com/osint/) - Links for OSINT
 
+Resources
+---------
+
+* [Rainbow tables](http://ophcrack.sourceforge.net/tables.php)
+
