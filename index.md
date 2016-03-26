@@ -35,6 +35,7 @@ Lists
 -----
 
 * [Awesome incident response](https://github.com/meirwah/awesome-incident-response)
+* [Awesome Honeypots](https://github.com/paralax/awesome-honeypots)
 * [Awesome malware analysis](https://github.com/rshipp/awesome-malware-analysis)
 * [Awesome pcap tools](https://github.com/caesar0301/awesome-pcaptools)
 * [Awesome security](https://github.com/sbilly/awesome-security)
