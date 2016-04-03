@@ -38,6 +38,7 @@ Lists
 * [Awesome Honeypots](https://github.com/paralax/awesome-honeypots)
 * [Awesome malware analysis](https://github.com/rshipp/awesome-malware-analysis)
 * [Awesome pcap tools](https://github.com/caesar0301/awesome-pcaptools)
+* [Awesome Penetration Testing](https://github.com/enaqx/awesome-pentest)
 * [Awesome security](https://github.com/sbilly/awesome-security)
 
 Online tools
