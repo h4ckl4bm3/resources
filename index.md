@@ -40,6 +40,7 @@ Lists
 * [Awesome pcap tools](https://github.com/caesar0301/awesome-pcaptools)
 * [Awesome Penetration Testing](https://github.com/enaqx/awesome-pentest)
 * [Awesome security](https://github.com/sbilly/awesome-security)
+* [Infosec Reference](https://github.com/Trietptm-on-Security/Infosec_Reference/blob/master/README.md)
 
 Online tools
 ------------
