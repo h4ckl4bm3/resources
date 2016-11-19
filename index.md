@@ -34,6 +34,10 @@ Intel and maps
 Lists
 -----
 
+* [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A list with links to other lists. The one page you need.
+
+More lists:
+
 * [Awesome incident response](https://github.com/meirwah/awesome-incident-response)
 * [Awesome Honeypots](https://github.com/paralax/awesome-honeypots)
 * [Awesome malware analysis](https://github.com/rshipp/awesome-malware-analysis)
