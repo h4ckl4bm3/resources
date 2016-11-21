@@ -46,6 +46,7 @@ More lists:
 * [Awesome security](https://github.com/sbilly/awesome-security)
 * [Infosec Reference](https://github.com/Trietptm-on-Security/Infosec_Reference/blob/master/README.md)
 * [Malware analysis and incident response tools for the frugal and lazy](https://postmodernsecurity.com/2015/09/11/malware-analysis-and-incident-response-tools-for-the-frugal-and-lazy/)
+* [Awesome IOCs](https://github.com/sroberts/awesome-iocs)
 
 Online tools
 ------------

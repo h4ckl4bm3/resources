@@ -1,6 +1,10 @@
 Recommendations and tests
 =========================
 
+Security headers
+----------------
+* [securityheaders.io](https://securityheaders.io/)
+
 TLS
 ---
 * [Cipherli.st Strong Ciphers for Apache, nginx and Lighttpd](https://cipherli.st/) - even includes Postfix and more.
