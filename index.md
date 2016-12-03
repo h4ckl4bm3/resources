@@ -65,6 +65,7 @@ OSINT Resource lists
 * [osintframework](http://osintframework.com/) - Good collection with nice GUI for presentation
 * [IntelTechniques.com](https://inteltechniques.com/intel/menu.html) - Lots of links to many resources 
 * [Onstrat.com](http://www.onstrat.com/osint/) - Links for OSINT
+* [Awesome OSINT ](https://github.com/jivoi/awesome-osint) - A curated list of amazingly awesome open source intelligence tools and resources.
 
 Resources
 ---------
