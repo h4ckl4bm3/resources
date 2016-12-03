@@ -57,6 +57,7 @@ Online tools
 * [Viewdns](http://viewdns.info/) - Whois, traceroute, ASN, MAC address lookup
 * [TinEye](https://tineye.com/) - Reverse image search
 * [Infosec tools by SANS ISC](https://isc.sans.edu/tools/)
+* [CyberChef](https://gchq.github.io/CyberChef/) - The Cyber Swiss Army Knife from GHCQ
 
 OSINT Resource lists
 --------------------
