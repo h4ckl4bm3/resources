@@ -20,4 +20,5 @@ Windows
 * [Unofficial Guide to Mimikatz & Command Reference](https://adsecurity.org/?page_id=1821) - includes topics like on how to detect Mimikatz and Invoke-Mimikatz.
 * [Event logs](http://windowsir.blogspot.se/2016/03/event-logs.html) - tools to read evt and evtx files.
 * [LECmd](https://github.com/EricZimmerman/LECmd)
+* [srum-dump](https://github.com/MarkBaggett/srum-dump) - A forensics tool to convert the data in the Windows srum (System Resource Usage Monitor) database to an xlsx spreadsheet.
 
