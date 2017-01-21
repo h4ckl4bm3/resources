@@ -1,13 +1,10 @@
-Commands
-========
+# Commands
 
-Git
----
+## Git
 
 * [Working with submodules](https://github.com/blog/2104-working-with-submodules)
 
-OS X
-----
+## OS X
 
 
 * Status of disk encryption
@@ -16,8 +13,7 @@ diskutil cs list
 ```
 
 
-Vim
----
+## Vim
 
 * [vimdoc](http://vimdoc.sourceforge.net/htmldoc/help.html) - and for [spell](http://vimdoc.sourceforge.net/htmldoc/spell.html)
 
