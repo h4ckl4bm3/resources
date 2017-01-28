@@ -1,43 +1,10 @@
-Documentation
-=============
+# Documentation
 
 In this wiki I'll try to add and maintain useful links to good information for security professionals. Some links may only be relevant in Sweden.
 
-My install scripts for different VM:s.
-
-* [kali-tools](https://github.com/reuteras/kali-tools) - Tools for Kali.
-* [remnux-tools](https://github.com/reuteras/remnux-tools) - Install Remnux and Sift on Ubuntu 14.04 LTS.
-* [cuckoo-tools](https://github.com/reuteras/cuckoo-tools) - Install Cuckoo from git master with tools.
-
-Cheat Sheets
-------------
-
-* [A cheat-sheet for password crackers](http://www.unix-ninja.com/p/A_cheat-sheet_for_password_crackers)
-* [Awesome Cheatsheet](https://github.com/detailyang/awesome-cheatsheet) - collection of cheatsheets
-* [IRM - Incident Response Methodologies](https://cert.societegenerale.com/en/publications.html)
-* [IT and Information Security Cheat Sheets](https://zeltser.com/cheat-sheets/) - by Lenny Zeltser
-* [Reverse Shell Cheat Sheet](http://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet)
-* [Networking protocols, tools and technologies](http://packetlife.net/library/cheat-sheets/)
-* [Session Management Cheat Sheet](https://www.owasp.org/index.php/Session_Management_Cheat_Sheet) - by OWASP
-
-Intel and maps
---------------
-
-* [Criticalstack](https://intel.criticalstack.com/) - Threat intelligence for the [Bro](https://www.bro.org/) plattform
-* [Digital Attack Map](http://www.digitalattackmap.com/)
-* [Emerging Threats Signatures](http://doc.emergingthreats.net/bin/view/Main/AllRulesets)
-* [IBM X-Force Exchange](https://exchange.xforce.ibmcloud.com/)
-* [Open threat exchange](https://otx.alienvault.com/) - by Alienvault
-* [Norse](http://map.norsecorp.com/) - because: lasers :)
-* [Deutsche Telekom](http://www.sicherheitstacho.eu/)
-
-Lists
------
+First I add links to other collections of links and information. I've found lots of useful information from others and like to mention them.
 
 * [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A list with links to other lists. The one page you need.
-
-More lists:
-
 * [Awesome incident response](https://github.com/meirwah/awesome-incident-response)
 * [Awesome Honeypots](https://github.com/paralax/awesome-honeypots)
 * [Awesome malware analysis](https://github.com/rshipp/awesome-malware-analysis)
@@ -48,9 +15,31 @@ More lists:
 * [Malware analysis and incident response tools for the frugal and lazy](https://postmodernsecurity.com/2015/09/11/malware-analysis-and-incident-response-tools-for-the-frugal-and-lazy/)
 * [Awesome IOCs](https://github.com/sroberts/awesome-iocs)
 * [Awesome reversing](https://github.com/tylerph3/awesome-reversing)
+* [Awesome OSINT ](https://github.com/jivoi/awesome-osint) - A curated list of amazingly awesome open source intelligence tools and resources.
+* [Awesome Cheatsheet](https://github.com/detailyang/awesome-cheatsheet) - collection of cheatsheets
 
-Online tools
-------------
+My own lists of RSS feeds that I follow and other sources of new information can be found [here](https://espressohouse.coffee/wiki/mdwiki.html#!index.md).
+
+You can also find some of my projects att [github](https://github.com/reuteras/). Some examples are:
+
+* [remnux-tools](https://github.com/reuteras/remnux-tools) - Install Remnux and Sift on Ubuntu 14.04 LTS.
+* [cuckoo-tools](https://github.com/reuteras/cuckoo-tools) - Install Cuckoo from git master with tools.
+* [AFAR](https://github.com/reuteras/afar) - Automatic File Analyze and Reporting is a script that takes a list of files as input and runs them through a couple of tests and generates a report that can be used as a starting point for further malware analyzes.
+
+## Organizations
+
+* [Owasp](https://www.owasp.org/)
+* [SANS](https://www.sans.edu)
+
+## Cheat Sheets
+
+* [IRM - Incident Response Methodologies](https://cert.societegenerale.com/en/publications.html)
+* [IT and Information Security Cheat Sheets](https://zeltser.com/cheat-sheets/) - by Lenny Zeltser
+* [Reverse Shell Cheat Sheet](http://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet)
+* [Networking protocols, tools and technologies](http://packetlife.net/library/cheat-sheets/)
+* [Session Management Cheat Sheet](https://www.owasp.org/index.php/Session_Management_Cheat_Sheet) - by OWASP
+
+## Online tools
 
 * [Email](https://mxtoolbox.com/SuperTool.aspx) - mx, spf and more
 * [Tcpiputils](http://www.tcpiputils.com/) - general network information
@@ -59,17 +48,4 @@ Online tools
 * [TinEye](https://tineye.com/) - Reverse image search
 * [Infosec tools by SANS ISC](https://isc.sans.edu/tools/)
 * [CyberChef](https://gchq.github.io/CyberChef/) - The Cyber Swiss Army Knife from GHCQ
-
-OSINT Resource lists
---------------------
-
-* [osintframework](http://osintframework.com/) - Good collection with nice GUI for presentation
-* [IntelTechniques.com](https://inteltechniques.com/intel/menu.html) - Lots of links to many resources 
-* [Onstrat.com](http://www.onstrat.com/osint/) - Links for OSINT
-* [Awesome OSINT ](https://github.com/jivoi/awesome-osint) - A curated list of amazingly awesome open source intelligence tools and resources.
-
-Resources
----------
-
-* [Rainbow tables](http://ophcrack.sourceforge.net/tables.php)
 

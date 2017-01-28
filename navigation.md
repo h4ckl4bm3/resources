@@ -1,8 +1,10 @@
 # Resources
 
 [Home](index.md)
-[cmd](cmd.md)
+[CERT](cert.md)
+[cli](cli.md)
 [Forensics](forensics.md)
+[Misc](misc.md)
 [Pentest](pentest.md)
 [Recommendations](recommendations.md)
 [Swedish](swedish.md)
