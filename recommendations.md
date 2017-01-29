@@ -5,10 +5,18 @@ Always remember that we're all [#HackingTogether](http://hackingtogether.org/) s
 ## Good things to read
 
 * [Technologist Manifesto..., or Things Everyone in IT Should Know](http://it.toolbox.com/blogs/confessions/technologist-manifesto-or-things-everyone-in-it-should-know-7715)
+* [Picking up the pieces (when AV fails)](https://ossectools.blogspot.se/2012/03/picking-up-pieces.html)
 
 ## OS
 
-* [Macos](https://github.com/drduh/macOS-Security-and-Privacy-Guide/)
+### Linux
+
+* [Debian - reproducible builds](https://wiki.debian.org/ReproducibleBuilds)
+* [Kernel Self Protection Project](http://kernsec.org/wiki/index.php/Kernel_Self_Protection_Project)
+
+### macOS
+
+* [macOS](https://github.com/drduh/macOS-Security-and-Privacy-Guide/)
 
 ## TLS
 

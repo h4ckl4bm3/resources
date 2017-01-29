@@ -15,11 +15,12 @@ General command line tips:
 
 
 * [Working with submodules](https://github.com/blog/2104-working-with-submodules)
+* [tig](https://jonas.github.io/tig/) - Tig is an ncurses-based text-mode interface for git.
 
 ## Linux
 
 * [Move a running process to a new screen shell](http://monkeypatch.me/blog/move-a-running-process-to-a-new-screen-shell.html)
- 
+
 ## macOS
 
 Other resources:
@@ -28,20 +29,15 @@ Other resources:
 
 ### Brew
 
-To fix many problems with brew first run:
-
+* To fix many problems with brew first run:
     ```bash
     brew doctor
     ```
-
-If that doesn't tell you anyting useful try:
-
+* If that doesn't tell you anyting useful try:
     ```bash
     cd $(brew --repo); git fetch; git reset --hard origin/master
     ```
-
-For privacy reasons remember to:
-
+* For privacy reasons remember to:
     ```bash
     brew analytics off
     ```
@@ -60,7 +56,7 @@ For privacy reasons remember to:
     ```bash
     defaults write com.apple.desktopservices DSDontWriteNetworkStores true
     ```
-* Disable (and enable) Airdrop 
+* Disable (and enable) Airdrop
     ```bash
     defaults write com.apple.NetworkBrowser DisableAirDrop -boolean YES
     # Turn on again
@@ -79,6 +75,36 @@ For privacy reasons remember to:
     srm                                         # secure rm
     ```
 
+## Network
+
+* From [Internet Storm Center](https://isc.sans.edu/diary/21135) - Get NTP time from pcap files.
+    ```bash
+    tshark -r snort.log.1465396419 -n -Y "ntp.flags.mode==4" -T fields -e ntp.xmt -e frame.time
+    ```
+* Run Snort on a pcap file:
+    ```bash
+    snort -r snort.log.1425565276 -c /etc/nsm/templates/snort/snort.conf --daq pcap --daq-mode read-file -l ./log/     # -A console to log to stdout
+    ```
+
+## SSH
+
+* Port forwarding
+    ```bash
+    ssh -L 5900:127.0.0.1:5900 server.domain.tld -l username
+    ```
+* Remote diff
+    ```bash
+    function remdiff(){
+        remote=${3:-$2}
+        ssh $1 "cat $2" | diff - $remote
+	}
+
+	# example using
+	# remdiff server.domain.tld .bashrc
+	# if you wish to diff a file with a different name on the server use
+	# remdiff server.domain.tld .bashrc .bash_profile
+    ```
+
 ## Vim
 
 * [vimdoc](http://vimdoc.sourceforge.net/htmldoc/help.html) - and for [spell](http://vimdoc.sourceforge.net/htmldoc/spell.html)
@@ -88,16 +114,9 @@ For privacy reasons remember to:
 * NTFS mark a file as comming from the internet:
     ```bash
     notepad install.exe:Zone.Identifier
-     
+
     Text:
     [ZoneTransfer]
     ZoneId=3
-    ```
-
-## Wireshark
-
-* From [Internet Storm Center](https://isc.sans.edu/diary/21135) - Get NTP time from pcap files.
-    ```bash
-    tshark -r snort.log.1465396419 -n -Y "ntp.flags.mode==4" -T fields -e ntp.xmt -e frame.time
     ```
 

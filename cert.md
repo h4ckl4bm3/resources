@@ -6,6 +6,7 @@ Links related to CERT and and incident response.
 
 * [REMnux](https://remnux.org)
 * [SIFT](https://digital-forensics.sans.org/community/downloads/)
+* [Security Onion](https://securityonion.net)
 * [DBAN](http://dban.org/) - when you need to wipe data.
 
 ## Intel and maps
@@ -30,6 +31,7 @@ Links related to CERT and and incident response.
 
 ## Platforms and tools
 
+* [Bro](https://bro.org/) - Bro IDS
 * [Cuckoo Sandbox](https://www.cuckoosandbox.org/)
 * [Yara](https://virustotal.github.io/yara/) - and use it with clamscan to search in zip/tar/gz/bz and more.
 
