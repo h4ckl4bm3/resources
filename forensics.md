@@ -54,4 +54,4 @@ A good document to start to read is [IR A-Z](https://drive.google.com/file/d/0B0
 Tools to look at:
 
 * [Disk Editor](http://www.disk-editor.org/)
-* [List of tools in Cyborg](http://cyborg.ztrela.com/tools/) - look at the list to se tools I've missed
+* [List of tools in Cyborg](http://cyborg.ztrela.com/tools/)
