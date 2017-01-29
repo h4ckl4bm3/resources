@@ -2,6 +2,10 @@
 
 [SANS](https://www.sans.edu) has many good [cheat sheets](https://digital-forensics.sans.org/community/cheat-sheets) and [forensic whitepapers](https://digital-forensics.sans.org/community/whitepapers).
 
+A good document to start to read is [IR A-Z](https://drive.google.com/file/d/0B0CinYp-Pe4-cHNlU1J4TXVUeUU/view) and the site [DFIR – The definitive compendium project](https://aboutdfir.com/). 
+
+* [dfir.training](https://dfir.training/)
+
 ## Disk
 
 * [TestDisk](http://www.cgsecurity.org/wiki/TestDisk) by CGSecurity
