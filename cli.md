@@ -120,3 +120,9 @@ Other resources:
     ZoneId=3
     ```
 
+## Yara
+
+* Scan files and files that are packed or compressed with tar/gz/bz/zip etc:
+    ```bash
+    clamscan -z -r -a --infected --archive-verbose --max-filesize=200000000000000 --max-scansize=200000000000000 -d rules.yar filename 
+    ```
