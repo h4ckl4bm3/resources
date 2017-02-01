@@ -33,19 +33,24 @@ A good document to start to read is [IR A-Z](https://drive.google.com/file/d/0B0
 
 * [Autopsy](http://www.sleuthkit.org/autopsy/)
 
-## OS specific
 
-### macOS
+## macOS
 
+### macOS tools
 * [osxcollector](https://github.com/Yelp/osxcollector)
 * [osxcollector output filters](https://github.com/Yelp/osxcollector)
 
-### Windows
+## Windows
 
+### Windows guides and tips
 * [Know your Windows Processes or Die Trying](http://www.sysforensics.org/2014/01/know-your-windows-processes/) - by Patrick Olsen
 * [Digital forensics – dll search order](https://countuponsecurity.com/2016/05/24/digital-forensics-dll-search-order/)
 * [Unofficial Guide to Mimikatz & Command Reference](https://adsecurity.org/?page_id=1821) - includes topics like on how to detect Mimikatz and Invoke-Mimikatz.
 * [Event logs](http://windowsir.blogspot.se/2016/03/event-logs.html) - tools to read evt and evtx files.
+* [Forensics Quickie: Accessing & Copying Volume Shadow Copy Contents From Live Remote Systems](http://www.4n6k.com/2017/02/forensics-quickie-accessing-copying.html)
+* [Do you see what I CCM?](https://www.fireeye.com/blog/threat-research/2016/12/do_you_see_what_icc.html) - Get data from SCCM when it's available.
+
+### Windows tools
 * [LECmd](https://github.com/EricZimmerman/LECmd)
 * [srum-dump](https://github.com/MarkBaggett/srum-dump) - A forensics tool to convert the data in the Windows srum (System Resource Usage Monitor) database to an xlsx spreadsheet.
 
@@ -55,3 +60,5 @@ Tools to look at:
 
 * [Disk Editor](http://www.disk-editor.org/)
 * [List of tools in Cyborg](http://cyborg.ztrela.com/tools/)
+* [PE_Carver](https://github.com/Rurik/PE_Carver) - carve valid PE files.
+* [hindsight](https://github.com/obsidianforensics/hindsight) - Internet history forensics for Google Chrome/Chromium.
