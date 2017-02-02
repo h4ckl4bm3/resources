@@ -20,6 +20,7 @@ General command line tips:
 ## Linux
 
 * [Move a running process to a new screen shell](http://monkeypatch.me/blog/move-a-running-process-to-a-new-screen-shell.html)
+* [man pages online (Debian)](https://manpages.debian.org/)
 
 ## macOS
 
