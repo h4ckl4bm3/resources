@@ -28,6 +28,13 @@ Links related to CERT and incident response.
 * [malwr](https://malwr.com/) - 
 * [Hybrid Analysis](https://www.hybrid-analysis.com/) - This webpage is a free malware analysis service powered by Payload Security that detects and analyzes unknown threats using a unique Hybrid Analysis technology.
 
+## OS tools
+
+### Windows
+
+* [Sysmon](https://technet.microsoft.com/en-us/sysinternals/sysmon )
+* [Explaining and adapting Tay’s Sysmon configuration](https://medium.com/@lennartkoopmann/explaining-and-adapting-tays-sysmon-configuration-27d9719a89a8#.xv8jf8tjr)
+
 ## OSINT Resource lists
 
 * [osintframework](http://osintframework.com/) - Good collection with nice GUI for presentation
