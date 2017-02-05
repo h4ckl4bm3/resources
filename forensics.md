@@ -62,3 +62,4 @@ Tools to look at:
 * [List of tools in Cyborg](http://cyborg.ztrela.com/tools/)
 * [PE_Carver](https://github.com/Rurik/PE_Carver) - carve valid PE files.
 * [hindsight](https://github.com/obsidianforensics/hindsight) - Internet history forensics for Google Chrome/Chromium.
+* [bios_memimage](https://github.com/dbrant/bios_memimage) - Test and dump memory
