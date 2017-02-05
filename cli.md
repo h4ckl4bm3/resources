@@ -20,6 +20,7 @@ General command line tips:
 ## Linux
 
 * [Move a running process to a new screen shell](http://monkeypatch.me/blog/move-a-running-process-to-a-new-screen-shell.html)
+* [tmux](https://danielmiessler.com/study/tmux/) - trying to switch over to tmux.
 * [man pages online (Debian)](https://manpages.debian.org/)
 
 ## macOS
@@ -125,5 +126,5 @@ Other resources:
 
 * Scan files and files that are packed or compressed with tar/gz/bz/zip etc:
     ```bash
-    clamscan -z -r -a --infected --archive-verbose --max-filesize=200000000000000 --max-scansize=200000000000000 -d rules.yar filename 
+    clamscan -z -r -a --infected --archive-verbose --max-filesize=200000000000000 --max-scansize=200000000000000 -d rules.yar filename
     ```
