@@ -1,6 +1,6 @@
 # Misc
 
-Numbers everyone should know.
+## Numbers everyone should know.
 
 | Action                              | Time           |
 |-------------------------------------|---------------:|
@@ -20,4 +20,8 @@ Numbers everyone should know.
 Source: [http://www.cs.cornell.edu/projects/ladis2009/talks/dean-keynote-ladis2009.pdf](http://www.cs.cornell.edu/projects/ladis2009/talks/dean-keynote-ladis2009.pdf)
 
 Other interesting numbers from the [first seven years of Youtube](http://highscalability.com/blog/2012/3/26/7-years-of-youtube-scalability-lessons-in-30-minutes.html) (fast forward 10 min) or you can learn [19 Lessons from United Airlines on How To Build A Crappy Survey](http://www.uie.com/brainsparks/2010/12/26/19-lessons-from-united-airlines-on-how-to-build-a-crappy-survey/).
+
+## Search
+
+* [Google trends](https://www.google.com/trends/) - see search trends of time
 
