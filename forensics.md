@@ -8,10 +8,18 @@ A good document to start to read is [IR A-Z](https://drive.google.com/file/d/0B0
 
 ## Disk
 
+### Low level tools
 * [TestDisk](http://www.cgsecurity.org/wiki/TestDisk) by CGSecurity
+
+### Time line and tools
 * [The Sleuth Kit (TSK)](http://www.sleuthkit.org/sleuthkit/)
+* [Autopsy](http://www.sleuthkit.org/autopsy/)
 * [log2timeline](https://github.com/log2timeline/plaso/wiki/Using-log2timeline)
 * [Timesketch](https://github.com/google/timesketch) - look at timeline of events
+
+### Analyze files on disk
+
+* [AnalyzePESig (Windows)](https://blog.didierstevens.com/programs/authenticode-tools/) - by Didier Stevens. AnalyzePESig is a tool to check signatures in PE files, just like Sysinternals’ sigcheck.
 
 ## Memory
 
@@ -28,11 +36,6 @@ A good document to start to read is [IR A-Z](https://drive.google.com/file/d/0B0
     vol.py -f dump.mem --profile=Win7SP1x86 timeliner --output=body --output-file=timeliner.txt
     mactime-sleuthkit -b timeliner.txt -z CET > sorted-timeliner.txt
     ```
-
-## Platforms and tools
-
-* [Autopsy](http://www.sleuthkit.org/autopsy/)
-
 
 ## macOS
 
