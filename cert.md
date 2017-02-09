@@ -30,6 +30,10 @@ Links related to CERT and incident response.
 
 ## OS tools
 
+### Linux
+
+* [Lynis](https://cisofy.com/documentation/lynis/) - auditing tool for Linux
+
 ### Windows
 
 * [Sysmon](https://technet.microsoft.com/en-us/sysinternals/sysmon )
