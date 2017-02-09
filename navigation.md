@@ -3,6 +3,7 @@
 [Home](index.md)
 [CERT](cert.md)
 [cli](cli.md)
+[Cloud](Cloud.md)
 [Forensics](forensics.md)
 [Misc](misc.md)
 [OPSEC](opsec.md)

@@ -10,6 +10,22 @@ General command line tips:
     ```bash
     export HISTTIMEFORMAT='%F %T '
     ```
+* Generate password (from https://lwn.net/Articles/713806/)
+    ```bash
+    entropy=32
+    head -c $entropy /dev/random | base64 | tr -d '\n='
+    # or direct
+    head -c 32 /dev/random | base64 | tr -d '\n='
+    ```
+
+## Docker images
+
+* Use splash to archive web pages
+    ```bash
+    docker run -p 5023:5023 -p 8050:8050 -p 8051:8051 scrapinghub/splash
+    # To get the full page in a png change the script:
+    #     png = splash:png{render_all=1},
+    ```
 
 ## Git
 
