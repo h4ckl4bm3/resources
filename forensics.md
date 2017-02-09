@@ -57,6 +57,15 @@ A good document to start to read is [IR A-Z](https://drive.google.com/file/d/0B0
 * [LECmd](https://github.com/EricZimmerman/LECmd)
 * [srum-dump](https://github.com/MarkBaggett/srum-dump) - A forensics tool to convert the data in the Windows srum (System Resource Usage Monitor) database to an xlsx spreadsheet.
 
+### Windows artifacts
+
+* UserAssist in NTUSER.dat, see [Dit it execute?](https://medium.com/@aubsec/did-it-execute-19c99c45e973).
+* From forensicwiki.org:
+    - [Prefetch](http://www.forensicswiki.org/wiki/Prefetch)
+    - [OpenSaveMRU](http://www.forensicswiki.org/wiki/OpenSaveMRU)
+    - [LastVisitedMRU/LastVisitedPidlMRU](http://www.forensicswiki.org/wiki/LastVisitedMRU)
+    - [List of Windows MRU Locations](http://www.forensicswiki.org/wiki/List_of_Windows_MRU_Locations)
+
 ## TODO
 
 Tools to look at:
