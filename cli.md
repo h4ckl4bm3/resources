@@ -36,7 +36,9 @@ General command line tips:
 ## Linux
 
 * [Move a running process to a new screen shell](http://monkeypatch.me/blog/move-a-running-process-to-a-new-screen-shell.html)
-* [tmux](https://danielmiessler.com/study/tmux/) - trying to switch over to tmux.
+* [tmux](https://tmux.github.io/) ([tmux on Github](https://github.com/tmux/tmux))
+    - [A tmux Primer](https://danielmiessler.com/study/tmux/) - trying to switch over to tmux.
+    - [tmux on archlinux.org](https://wiki.archlinux.org/index.php/Tmux)
 * [man pages online (Debian)](https://manpages.debian.org/)
 
 ## macOS
