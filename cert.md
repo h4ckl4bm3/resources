@@ -65,6 +65,11 @@ Links related to CERT and incident response.
     - https://www.insinuator.net/2016/08/reverse-engineering-with-radare2-part-2/
 * [Bokken](http://bokken.re/) - Bokken. Open source reverse code engineering.
 
+## RFCs
+
+* [RFC 3227 - Guidelines for Evidence Collection and Archiving (BCP: 55)](https://www.rfc-editor.org/info/rfc3227)
+* [RFC 4949 - Internet Security Glossary, Version 2 (FYI: 36)](https://www.rfc-editor.org/info/rfc4949)
+
 ## Virus samples
 
 * [support.clean-mx.de/clean-mx/viruses.php](http://support.clean-mx.de/clean-mx/viruses.php)
