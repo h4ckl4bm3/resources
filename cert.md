@@ -23,6 +23,13 @@ Links related to CERT and incident response.
 * [Norse](http://map.norsecorp.com/) - because: lasers :)
 * [Deutsche Telekom](http://www.sicherheitstacho.eu/)
 
+## Logs
+
+New section to start to add items that should be logged and monitored.
+
+* [Detecting Kerberoasting Activity](https://adsecurity.org/?p=3458) - by [adsecurity.org](https://adsecurity.org)
+* [Detecting Offensive PowerShell Attack Tools](https://adsecurity.org/?p=2604) - by [adsecurity.org](https://adsecurity.org)
+
 ## Online tools
 
 * [malwr](https://malwr.com/) - 
