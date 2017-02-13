@@ -4,7 +4,12 @@ General command line tips:
 
 * [Awesome Command Line Apps](https://github.com/herrbischoff/awesome-command-line-apps)
 
-## Bash
+## Bash and general unix
+
+* Recursive DNS search with dig
+    ```bash
+    dig +recurse +trace kernel.org
+    ```
 
 * Show times in current bash history.
     ```bash
