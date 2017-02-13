@@ -32,7 +32,12 @@ New section to start to add items that should be logged and monitored.
 
 ## Online tools
 
-* [malwr](https://malwr.com/) - 
+Remember to always consider if you are allowed too upload a file or pcap. You should probably only upload .pcap files and not .pcapng since they might contain more meta data.
+
+* [malwr](https://malwr.com/)
+* [networktotal.com](https://www.networktotal.com/)
+* [packettotal.com](https://www.packettotal.com/)
+* [virustotal.com](https://www.virustotal.com/)
 * [Hybrid Analysis](https://www.hybrid-analysis.com/) - This webpage is a free malware analysis service powered by Payload Security that detects and analyzes unknown threats using a unique Hybrid Analysis technology.
 
 ## OS tools
