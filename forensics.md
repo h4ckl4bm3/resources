@@ -47,6 +47,16 @@ A good document to start to read is [IR A-Z](https://drive.google.com/file/d/0B0
 
 ### Windows artifacts
 
+* Registry hives:
+    - System-wide registry hive files are located in %windir%\system32\config
+        - SAM - locations of interest:
+            - SAM\Domains\Account\Users\Names (only during disk forensics or if you have system privileges. 
+        - SECURITY
+        - SYSTEM
+        - SOFTWARE
+            HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\ProfileList - Map SID numbers to domain user names.
+    - Main user registry hive are located in %USERPROFILE% in the file **NTUSER.DAT**.
+    - Secondary file is located in %localappdata%\Microsoft\Windows folder in the file **USRCLASS.DAT**.
 * UserAssist in NTUSER.dat, see [Dit it execute?](https://medium.com/@aubsec/did-it-execute-19c99c45e973).
 * From forensicwiki.org:
     - [Prefetch](http://www.forensicswiki.org/wiki/Prefetch)

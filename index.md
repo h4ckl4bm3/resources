@@ -1,6 +1,6 @@
 # Documentation
 
-In this wiki I'll try to add and maintain useful links to good information for security professionals. Some links may only be relevant in Sweden.
+In this wiki I'll try to add and maintain useful links to good information for security professionals. Some links may only be relevant in Sweden. Some information will be basic but can be useful if you're stressed. I will try to add information when ever I find something new or looks at something old that isn't in this wiki already.
 
 First I add links to other collections of links and information. I've found lots of useful information from others and like to mention them.
 
