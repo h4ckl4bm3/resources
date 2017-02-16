@@ -145,9 +145,15 @@ Other resources:
     ZoneId=3
     ```
 
-## Yara
+## Yara and Clamav
 
 * Scan files and files that are packed or compressed with tar/gz/bz/zip etc:
     ```bash
     clamscan -z -r -a --infected --archive-verbose --max-filesize=200000000000000 --max-scansize=200000000000000 -d rules.yar filename
+    ```
+* Scan password protected files. Read [Quickpost: ClamAV and ZIP File Decryption](https://blog.didierstevens.com/2017/02/15/quickpost-clamav-and-zip-file-decryption/) by Didier Stevens. The rule looks like:
+    ```bash
+    ZipPasswordInfected;Engine:81-255;0;infected
+    # Use with
+    clamscan.exe -d is_pe_file.yara -d passwords.pwdb notepad.exe.zip
     ```
