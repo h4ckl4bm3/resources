@@ -57,6 +57,13 @@ Remember to always consider if you are allowed too upload a file or pcap. You sh
 * [IntelTechniques.com](https://inteltechniques.com/intel/menu.html) - Lots of links to many resources 
 * [Onstrat.com](http://www.onstrat.com/osint/) - Links for OSINT
 
+## Planing and prevention
+
+The Australian Signals Directorate has a good collection of recommendations.
+
+* [Strategies to mitigate cyber security incidents - A new cyber security baseline](https://www.asd.gov.au/infosec/mitigationstrategies.htm)
+* [Essential eight explained](http://www.asd.gov.au/publications/protect/essential-eight-explained.htm)
+
 ## Platforms and tools
 
 * [Bro](https://bro.org/) - Bro IDS
