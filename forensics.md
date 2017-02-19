@@ -86,3 +86,4 @@ Tools to look at:
 * [PE_Carver](https://github.com/Rurik/PE_Carver) - carve valid PE files.
 * [hindsight](https://github.com/obsidianforensics/hindsight) - Internet history forensics for Google Chrome/Chromium.
 * [bios_memimage](https://github.com/dbrant/bios_memimage) - Test and dump memory
+* [Squashfs As A Forensic Container](https://www.foo.be/2017/01/Squashfs_As_A_Forensic_Container) - Squashfs is append-only read-only file-system with compression.
