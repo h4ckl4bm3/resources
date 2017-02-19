@@ -63,7 +63,10 @@ A good document to start to read is [IR A-Z](https://drive.google.com/file/d/0B0
     - [OpenSaveMRU](http://www.forensicswiki.org/wiki/OpenSaveMRU)
     - [LastVisitedMRU/LastVisitedPidlMRU](http://www.forensicswiki.org/wiki/LastVisitedMRU)
     - [List of Windows MRU Locations](http://www.forensicswiki.org/wiki/List_of_Windows_MRU_Locations)
-* [Windows 10 artifacts](http://cyberforensicator.com/2017/02/07/windows-10-forensics/
+* Windows 7
+    - [Analyzing USB entries in Windows 7](https://www.blackbagtech.com/blog/2017/02/14/analyzing-usb-entries-in-windows-7/)
+* Windows 10
+    - [Windows 10 artifacts](http://cyberforensicator.com/2017/02/07/windows-10-forensics/
 
 ### Windows guides and tips
 * [Know your Windows Processes or Die Trying](http://www.sysforensics.org/2014/01/know-your-windows-processes/) - by Patrick Olsen
