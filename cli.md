@@ -22,6 +22,10 @@ General command line tips:
     # or direct
     head -c 32 /dev/random | base64 | tr -d '\n='
     ```
+* Compare output from two commands:
+    ```bash
+    diff <(xxd shattered-1.pdf) <(xxd shattered-2.pdf) | less
+    ```
 
 ## Docker images
 
