@@ -50,6 +50,10 @@ A good document to start to read is [IR A-Z](https://drive.google.com/file/d/0B0
 * [osxcollector](https://github.com/Yelp/osxcollector)
 * [osxcollector output filters](https://github.com/Yelp/osxcollector)
 
+### macOS guides and tips
+
+* [OSX (Mac) Memory Acquisition and Analysis Using OSXpmem and Volatility](http://ponderthebits.com/2017/02/osx-mac-memory-acquisition-and-analysis-using-osxpmem-and-volatility/)
+
 ## Windows
 
 ### Windows artifacts
@@ -97,3 +101,4 @@ Tools to look at:
 * [hindsight](https://github.com/obsidianforensics/hindsight) - Internet history forensics for Google Chrome/Chromium.
 * [bios_memimage](https://github.com/dbrant/bios_memimage) - Test and dump memory
 * [Squashfs As A Forensic Container](https://www.foo.be/2017/01/Squashfs_As_A_Forensic_Container) - Squashfs is append-only read-only file-system with compression.
+* [block-parser](https://github.com/matthewdunwoody/block-parser) - Parser for Windows PowerShell script block logs
