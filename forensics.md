@@ -21,6 +21,13 @@ A good document to start to read is [IR A-Z](https://drive.google.com/file/d/0B0
 
 * [AnalyzePESig (Windows)](https://blog.didierstevens.com/programs/authenticode-tools/) - by Didier Stevens. AnalyzePESig is a tool to check signatures in PE files, just like Sysinternals’ sigcheck.
 
+### Images and other resources
+
+* [Digital Corpora](http://digitalcorpora.org/)
+* [Digital Forensics Tool Testing Images](http://dftt.sourceforge.net/)
+* [EDRM Datasets](http://www.edrm.net/resources/data-sets/)
+* [NIST - Hacking Case](http://www.cfreds.nist.gov/Hacking_Case.html)
+
 ## Linux
 
 ### Linux artifacts
