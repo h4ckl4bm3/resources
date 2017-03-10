@@ -54,7 +54,7 @@ Remember to always consider if you are allowed too upload a file or pcap. You sh
 ## OSINT Resource lists
 
 * [osintframework](http://osintframework.com/) - Good collection with nice GUI for presentation
-* [IntelTechniques.com](https://inteltechniques.com/intel/menu.html) - Lots of links to many resources 
+* [IntelTechniques.com](https://inteltechniques.com/intel/menu.html) - Lots of links to many resources
 * [Onstrat.com](http://www.onstrat.com/osint/) - Links for OSINT
 
 ## Planing and prevention
@@ -88,6 +88,17 @@ The Australian Signals Directorate has a good collection of recommendations.
 
 * [RFC 3227 - Guidelines for Evidence Collection and Archiving (BCP: 55)](https://www.rfc-editor.org/info/rfc3227)
 * [RFC 4949 - Internet Security Glossary, Version 2 (FYI: 36)](https://www.rfc-editor.org/info/rfc4949)
+
+## Tips for security presentations
+
+Some useful commands and demos for presentations.
+
+* [How was your stay at the Hotel La Playa?](https://isc.sans.edu/forums/diary/How+was+your+stay+at+the+Hotel+La+Playa/22069/)
+    ```bash
+    iwconfig $interface mode monitor
+    ifconfig $interface up
+    tshark -i $interface -n -l subtype probereq | tee -a /tmp/ssids.tmp     # get questins for SSID's
+    ```
 
 ## Virus samples
 
