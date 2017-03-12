@@ -30,6 +30,15 @@ New section to start to add items that should be logged and monitored.
 * [Detecting Kerberoasting Activity](https://adsecurity.org/?p=3458) - by [adsecurity.org](https://adsecurity.org)
 * [Detecting Offensive PowerShell Attack Tools](https://adsecurity.org/?p=2604) - by [adsecurity.org](https://adsecurity.org)
 
+## Network
+
+* [Wireshark](https://www.wireshark.org/)
+* [NetworkMiner and CapLoader](https://www.netresec.com/)
+
+TODO:
+
+* [A tcpdump Tutorial and Primer with Examples](https://danielmiessler.com/study/tcpdump/)
+
 ## Online tools
 
 Remember to always consider if you are allowed too upload a file or pcap. You should probably only upload .pcap files and not .pcapng since they might contain more meta data.
