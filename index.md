@@ -17,6 +17,7 @@ First I add links to other collections of links and information. I've found lots
 * [Awesome reversing](https://github.com/tylerph3/awesome-reversing)
 * [Awesome OSINT ](https://github.com/jivoi/awesome-osint) - A curated list of amazingly awesome open source intelligence tools and resources.
 * [Awesome Cheatsheet](https://github.com/detailyang/awesome-cheatsheet) - collection of cheatsheets
+* [Awesome Windows Domain Hardening](https://github.com/PaulSec/awesome-windows-domain-hardening)
 
 My own lists of RSS feeds that I follow and other sources of new information can be found [here](https://espressohouse.coffee/wiki/mdwiki.html#!index.md).
 
