@@ -38,6 +38,7 @@ A good document to start to read is [IR A-Z](https://drive.google.com/file/d/0B0
 ## Memory
 
 * [Volatility](https://github.com/volatilityfoundation/volatility)
+    - [Recovering BitLocker Keys on Windows 8.1 and 10](https://tribalchicken.io/recovering-bitlocker-keys-on-windows-8-1-and-10/)
 * [Rekall](https://github.com/google/rekall)
 * [DAMM](https://github.com/504ensicsLabs/DAMM) - An open source memory analysis tool built on top of Volatility.
 * [VolUtilty](https://github.com/kevthehermit/VolUtility/)
@@ -85,7 +86,7 @@ A good document to start to read is [IR A-Z](https://drive.google.com/file/d/0B0
     - [Analyzing USB entries in Windows 7](https://www.blackbagtech.com/blog/2017/02/14/analyzing-usb-entries-in-windows-7/)
 * Windows 10
     - [Windows 10 artifacts](http://cyberforensicator.com/2017/02/07/windows-10-forensics/)
-* [SCCM and CCM_RectentlyUsedApps](http://blog.4n6ir.com/2017/02/secret-archives-of-execution-evidence.html)
+* [SCCM and CCM_RectentlyUsedApps](http://blog.4n6ir.com/2017/02/secret-archives-of-execution-evidence.html) and [CCM_RecentlyUsedApps Properties & Forensics](http://blog.4n6ir.com/2017/03/ccmrecentlyusedapps-properties-forensics.html)
 
 ### Windows guides and tips
 * [Know your Windows Processes or Die Trying](http://www.sysforensics.org/2014/01/know-your-windows-processes/) - by Patrick Olsen
