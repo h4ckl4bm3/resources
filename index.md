@@ -49,4 +49,5 @@ You can also find some of my projects att [github](https://github.com/reuteras/)
 * [TinEye](https://tineye.com/) - Reverse image search
 * [Infosec tools by SANS ISC](https://isc.sans.edu/tools/)
 * [CyberChef](https://gchq.github.io/CyberChef/) - The Cyber Swiss Army Knife from GHCQ
+* [Censys](https://www.censys.io/) - Censys is a search engine that allows computer scientists to ask questions about the devices and networks that compose the Internet. Also look at [scans.io](https://scans.io/).
 

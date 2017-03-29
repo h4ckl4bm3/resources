@@ -77,6 +77,7 @@ A good document to start to read is [IR A-Z](https://drive.google.com/file/d/0B0
     - Main user registry hive are located in %USERPROFILE% in the file **NTUSER.DAT**.
     - Secondary file is located in %localappdata%\Microsoft\Windows folder in the file **USRCLASS.DAT**.
 * UserAssist in NTUSER.dat, see [Dit it execute?](https://medium.com/@aubsec/did-it-execute-19c99c45e973).
+* [Forensically interesting spots in the Windows 7, Vista and XP file system and registry](https://www.irongeek.com/i.php?page=security/windows-forensics-registry-and-file-system-spots)
 * From forensicwiki.org:
     - [Prefetch](http://www.forensicswiki.org/wiki/Prefetch)
     - [OpenSaveMRU](http://www.forensicswiki.org/wiki/OpenSaveMRU)

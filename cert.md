@@ -13,6 +13,10 @@ Links related to CERT and incident response.
 * [Security Onion](https://securityonion.net)
 * [DBAN](http://dban.org/) - when you need to wipe data.
 
+## Hunting
+
+* [The ThreatHunting Project](https://github.com/ThreatHuntingProject/ThreatHunting) - TODO
+
 ## Intel and maps
 
 * [Criticalstack](https://intel.criticalstack.com/) - Threat intelligence for the [Bro](https://www.bro.org/) plattform
