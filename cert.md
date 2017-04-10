@@ -122,4 +122,5 @@ Some useful commands and demos for presentations.
 * [vxvault.net/ViriList.php](http://vxvault.net/ViriList.php)
 * [www.tekdefense.com/downloads/malware-samples/](http://www.tekdefense.com/downloads/malware-samples/)
 * [zeltser.com/malware-sample-sources/](https://zeltser.com/malware-sample-sources/)
+* [malwaria.cf](http://108.59.83.152/)
 
