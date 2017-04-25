@@ -35,6 +35,7 @@ A good document to start to read is [IR A-Z](https://drive.google.com/file/d/0B0
 
 * Information about _.bash_history_
     - [You Don’t Know Jack About .bash_history - SANS DFIR Summit 2016](https://www.youtube.com/watch?v=wv1xqOV2RyE) [pdf](http://www.deer-run.com/~hal/DontKnowJack-bash_history.pdf)
+* [Intro to Linux forensics](https://countuponsecurity.com/2017/04/12/intro-to-linux-forensics/)    
 
 ## Memory
 
