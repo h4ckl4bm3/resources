@@ -34,6 +34,10 @@ New section to start to add items that should be logged and monitored.
 * [Detecting Kerberoasting Activity](https://adsecurity.org/?p=3458) - by [adsecurity.org](https://adsecurity.org)
 * [Detecting Offensive PowerShell Attack Tools](https://adsecurity.org/?p=2604) - by [adsecurity.org](https://adsecurity.org)
 
+## Malware analysis
+
+* [Good introduction to pdf files](https://www.youtube.com/watch?v=ns5rJAPOaso) - Malicious Documents: The Matryoshka Edition by Didier Stevens
+
 ## Network
 
 * [Wireshark](https://www.wireshark.org/)
