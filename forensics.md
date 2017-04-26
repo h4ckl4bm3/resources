@@ -41,6 +41,8 @@ A good document to start to read is [IR A-Z](https://drive.google.com/file/d/0B0
 
 * [Volatility](https://github.com/volatilityfoundation/volatility)
     - [Recovering BitLocker Keys on Windows 8.1 and 10](https://tribalchicken.io/recovering-bitlocker-keys-on-windows-8-1-and-10/)
+    - [Linux plugins](https://github.com/Dutchy-/volatility-plugins)
+    - [volatility-bitlocker](https://github.com/tribalchicken/volatility-bitlocker)
 * [Rekall](https://github.com/google/rekall)
 * [DAMM](https://github.com/504ensicsLabs/DAMM) - An open source memory analysis tool built on top of Volatility.
 * [VolUtilty](https://github.com/kevthehermit/VolUtility/)
