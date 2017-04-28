@@ -26,6 +26,7 @@ Links related to CERT and incident response.
 * [Open threat exchange](https://otx.alienvault.com/) - by Alienvault
 * [Norse](http://map.norsecorp.com/) - because: lasers :)
 * [Deutsche Telekom](http://www.sicherheitstacho.eu/)
+* [The World's Worst Botnet ASNs](https://www.spamhaus.org/statistics/botnet-asn/) by Spamhaus.
 
 ## Logs
 
