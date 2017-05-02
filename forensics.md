@@ -15,6 +15,7 @@ A good document to start to read is [IR A-Z](https://drive.google.com/file/d/0B0
 * [The Sleuth Kit (TSK)](http://www.sleuthkit.org/sleuthkit/)
 * [Autopsy](http://www.sleuthkit.org/autopsy/) and plugins:
     - [https://github.com/markmckinnon/Autopsy-Plugins](https://github.com/markmckinnon/Autopsy-Plugins)
+    - [Volatility Autopsy Plugin Module](https://github.com/markmckinnon/Autopsy-Plugins/tree/master/Volatility) and a [blog](https://medium.com/@markmckinnon_80619/volatility-autopsy-plugin-module-8beecea6396) post about it
 * [log2timeline](https://github.com/log2timeline/plaso/wiki/Using-log2timeline)
 * [Timesketch](https://github.com/google/timesketch) - look at timeline of events
 
