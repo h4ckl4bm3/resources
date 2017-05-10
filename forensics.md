@@ -96,6 +96,7 @@ A good document to start to read is [IR A-Z](https://drive.google.com/file/d/0B0
     - [Windows 10 artifacts](http://cyberforensicator.com/2017/02/07/windows-10-forensics/)
 * [SCCM and CCM_RectentlyUsedApps](http://blog.4n6ir.com/2017/02/secret-archives-of-execution-evidence.html) and [CCM_RecentlyUsedApps Properties & Forensics](http://blog.4n6ir.com/2017/03/ccmrecentlyusedapps-properties-forensics.html)
 * [AmCache](https://windowsir.blogspot.se/2017/03/incorporating-amcache-data-into.html)
+* [Shim](https://www.fireeye.com/blog/threat-research/2017/05/fin7-shim-databases-persistence.html)
 
 ### Windows guides and tips
 * [Know your Windows Processes or Die Trying](http://www.sysforensics.org/2014/01/know-your-windows-processes/) - by Patrick Olsen
