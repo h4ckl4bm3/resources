@@ -1,5 +1,9 @@
 # Misc
 
+## CTF
+
+* [RingZer0 Team Online CTF](https://ringzer0team.com/home)
+
 ## Numbers everyone should know.
 
 | Action                              | Time           |
