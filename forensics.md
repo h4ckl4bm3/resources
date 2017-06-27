@@ -22,6 +22,7 @@ A good document to start to read is [IR A-Z](https://drive.google.com/file/d/0B0
 ### Analyze files on disk
 
 * [AnalyzePESig (Windows)](https://blog.didierstevens.com/programs/authenticode-tools/) - by Didier Stevens. AnalyzePESig is a tool to check signatures in PE files, just like Sysinternals’ sigcheck.
+* [File signatures table by Gary Kessler](http://www.garykessler.net/library/file_sigs.html)
 
 ### Images and other resources
 
