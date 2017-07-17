@@ -16,6 +16,7 @@ Links related to CERT and incident response.
 ## Hunting
 
 * [The ThreatHunting Project](https://github.com/ThreatHuntingProject/ThreatHunting) - TODO
+* [Get-InjectedThread.ps1](https://gist.github.com/jaredcatkinson/23905d34537ce4b5b1818c3e6405c1d2) - Looks for threads that were created as a result of code injection.
 
 ## Intel and maps
 

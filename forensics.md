@@ -22,6 +22,7 @@ A good document to start to read is [IR A-Z](https://drive.google.com/file/d/0B0
 ### Analyze files on disk
 
 * [AnalyzePESig (Windows)](https://blog.didierstevens.com/programs/authenticode-tools/) - by Didier Stevens. AnalyzePESig is a tool to check signatures in PE files, just like Sysinternals’ sigcheck.
+* [File signatures table by Gary Kessler](http://www.garykessler.net/library/file_sigs.html)
 
 ### Images and other resources
 
@@ -83,6 +84,7 @@ A good document to start to read is [IR A-Z](https://drive.google.com/file/d/0B0
             HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\ProfileList - Map SID numbers to domain user names.
     - Main user registry hive are located in %USERPROFILE% in the file **NTUSER.DAT**.
     - Secondary file is located in %localappdata%\Microsoft\Windows folder in the file **USRCLASS.DAT**.
+* [RegistryChangesView](http://www.nirsoft.net/utils/registry_changes_view.html) intro [blog](http://blog.nirsoft.net/2017/07/14/new-tool-that-compares-snapshots-of-windows-registry/)
 * UserAssist in NTUSER.dat, see [Dit it execute?](https://medium.com/@aubsec/did-it-execute-19c99c45e973).
 * [Forensically interesting spots in the Windows 7, Vista and XP file system and registry](https://www.irongeek.com/i.php?page=security/windows-forensics-registry-and-file-system-spots)
 * From forensicwiki.org:
