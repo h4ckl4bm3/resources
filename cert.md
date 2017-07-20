@@ -83,6 +83,7 @@ The Australian Signals Directorate has a good collection of recommendations.
 
 * [Strategies to mitigate cyber security incidents - A new cyber security baseline](https://www.asd.gov.au/infosec/mitigationstrategies.htm)
 * [Essential eight explained](http://www.asd.gov.au/publications/protect/essential-eight-explained.htm)
+* [Scanning for Active Directory Privileges & Privileged Accounts](https://adsecurity.org/?p=3658)
 
 ## Platforms and tools
 
