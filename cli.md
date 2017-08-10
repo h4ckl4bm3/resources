@@ -26,6 +26,7 @@ General command line tips:
     ```bash
     diff <(xxd shattered-1.pdf) <(xxd shattered-2.pdf) | less
     ```
+* [Effictive grep for NSRL](http://markjx.blogspot.se/2017/07/using-nsrl-on-modern-machine.html)
 
 ## Docker images
 

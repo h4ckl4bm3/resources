@@ -24,7 +24,7 @@ My own lists of RSS feeds that I follow and other sources of new information can
 You can also find some of my projects att [github](https://github.com/reuteras/). Some examples are:
 
 * [remnux-tools](https://github.com/reuteras/remnux-tools) - Install Remnux and Sift on Ubuntu 14.04 LTS.
-* [cuckoo-tools](https://github.com/reuteras/cuckoo-tools) - Install Cuckoo from git master with tools.
+* [cuckoo-tools](https://github.com/reuteras/cuckoo-tools) - Install Cuckoo on Debian.
 * [AFAR](https://github.com/reuteras/afar) - Automatic File Analyze and Reporting is a script that takes a list of files as input and runs them through a couple of tests and generates a report that can be used as a starting point for further malware analyzes.
 
 ## Organizations

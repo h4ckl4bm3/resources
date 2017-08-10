@@ -17,6 +17,7 @@ Links related to CERT and incident response.
 
 * [The ThreatHunting Project](https://github.com/ThreatHuntingProject/ThreatHunting) - TODO
 * [Get-InjectedThread.ps1](https://gist.github.com/jaredcatkinson/23905d34537ce4b5b1818c3e6405c1d2) - Looks for threads that were created as a result of code injection.
+* [ACLight](https://github.com/CyberArkLabs/ACLight) - A script for advanced discovery of Privileged Accounts - includes Shadow Admins
 
 ## Intel and maps
 
