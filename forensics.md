@@ -8,6 +8,13 @@ A good document to start to read is [IR A-Z](https://drive.google.com/file/d/0B0
 
 ## Disk
 
+### Filesystems
+
+#### ext4
+
+* [Ext4 (and Ext2/Ext3) Wiki](https://ext4.wiki.kernel.org/index.php/Main_Page) at kernel.org
+* [Ext4 Disk Layout](https://ext4.wiki.kernel.org/index.php/Ext4_Disk_Layout)
+
 ### Low level tools
 * [TestDisk](http://www.cgsecurity.org/wiki/TestDisk) by CGSecurity
 
