@@ -13,6 +13,10 @@ Links related to CERT and incident response.
 * [Security Onion](https://securityonion.net)
 * [DBAN](http://dban.org/) - when you need to wipe data.
 
+## Exploits and techniques 
+
+* [Ten Process Injection Techniques: A Technical Survey of Common and Trending Process Injection Techniques](https://www.endgame.com/blog/technical-blog/ten-process-injection-techniques-technical-survey-common-and-trending-process)
+
 ## Hunting
 
 * [The ThreatHunting Project](https://github.com/ThreatHuntingProject/ThreatHunting) - TODO
@@ -95,7 +99,6 @@ The Australian Signals Directorate has a good collection of recommendations.
 ## Ransomware
 
 * [Ransomware Tracker](https://ransomwaretracker.abuse.ch/)
-
 
 ## Reversing
 
