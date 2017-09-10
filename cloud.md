@@ -11,6 +11,7 @@
 ## Amazon
 
 * [Amazon AWS](https://console.aws.amazon.com/)
+* [aws_ir](https://github.com/ThreatResponse/aws_ir) - Python installable command line utiltity for mitigation of host and key compromises.
 
 ## DigitalOcean
 

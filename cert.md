@@ -41,6 +41,10 @@ New section to start to add items that should be logged and monitored.
 ## Malware analysis
 
 * [Good introduction to pdf files](https://www.youtube.com/watch?v=ns5rJAPOaso) - Malicious Documents: The Matryoshka Edition by Didier Stevens
+* [Malware analysis output sanitization](https://isc.sans.edu/forums/diary/Malware+analysis+output+sanitization/22804/)
+    ```bash
+    oledump.py -s 8 -v 0075733924IEMJ.doc.vir.zip | translate.py "Sani2(byte)"
+    ```
 
 ## Network
 
@@ -105,6 +109,7 @@ The Australian Signals Directorate has a good collection of recommendations.
     - https://www.insinuator.net/2016/08/reverse-engineering-with-radare2-part-1/
     - https://www.insinuator.net/2016/08/reverse-engineering-with-radare2-part-2/
 * [Bokken](http://bokken.re/) - Bokken. Open source reverse code engineering.
+* [pyrebox](https://github.com/Cisco-Talos/pyrebox) - Python scriptable Reverse Engineering Sandbox, a Virtual Machine instrumentation and inspection framework based on QEMU. [https://talosintelligence.com/pyrebox](https://talosintelligence.com/pyrebox) - TODO
 
 ## RFCs
 

@@ -21,6 +21,7 @@ A good document to start to read is [IR A-Z](https://drive.google.com/file/d/0B0
 
 ### Analyze files on disk
 
+* [analyzeEXT](https://github.com/halpomeranz/analyzeEXT) - Recover EXT filesystem info from carved directory blocks - TODO
 * [AnalyzePESig (Windows)](https://blog.didierstevens.com/programs/authenticode-tools/) - by Didier Stevens. AnalyzePESig is a tool to check signatures in PE files, just like Sysinternals’ sigcheck.
 * [File signatures table by Gary Kessler](http://www.garykessler.net/library/file_sigs.html)
 
@@ -38,6 +39,7 @@ A good document to start to read is [IR A-Z](https://drive.google.com/file/d/0B0
 * Information about _.bash_history_
     - [You Don’t Know Jack About .bash_history - SANS DFIR Summit 2016](https://www.youtube.com/watch?v=wv1xqOV2RyE) [pdf](http://www.deer-run.com/~hal/DontKnowJack-bash_history.pdf)
 * [Intro to Linux forensics](https://countuponsecurity.com/2017/04/12/intro-to-linux-forensics/)    
+* [swap_digger](https://github.com/sevagas/swap_digger) is a tool used to automate Linux swap analysis during post-exploitation or forensics.
 
 ## Memory
 

@@ -2,6 +2,8 @@
 
 In this wiki I'll try to add and maintain useful links to good information for security professionals. Some links may only be relevant in Sweden. Some information will be basic but can be useful if you're stressed. I will try to add information when ever I find something new or looks at something old that isn't in this wiki already.
 
+Links marked with TODO are things that I'm interested in trying but haven't had the time to test yet.
+
 First I add links to other collections of links and information. I've found lots of useful information from others and like to mention them.
 
 * [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A list with links to other lists. The one page you need.

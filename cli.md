@@ -105,6 +105,10 @@ Other resources:
     srm                                         # secure rm
     ```
 
+### macOS tools
+
+* [filewatcher](https://github.com/m3liot/filewatcher) - A simple auditing utility for macOS
+
 ## Network
 
 * From [Internet Storm Center](https://isc.sans.edu/diary/21135) - Get NTP time from pcap files.
