@@ -8,6 +8,13 @@ A good document to start to read is [IR A-Z](https://drive.google.com/file/d/0B0
 
 ## Disk
 
+### Filesystems
+
+#### ext4
+
+* [Ext4 (and Ext2/Ext3) Wiki](https://ext4.wiki.kernel.org/index.php/Main_Page) at kernel.org
+* [Ext4 Disk Layout](https://ext4.wiki.kernel.org/index.php/Ext4_Disk_Layout)
+
 ### Low level tools
 * [TestDisk](http://www.cgsecurity.org/wiki/TestDisk) by CGSecurity
 
@@ -49,6 +56,7 @@ A good document to start to read is [IR A-Z](https://drive.google.com/file/d/0B0
     - [volatility-bitlocker](https://github.com/tribalchicken/volatility-bitlocker)
     * [volatility-autoruns](https://github.com/tomchop/volatility-autoruns)
     * [volatility-plugins](https://github.com/superponible/volatility-plugins)
+    * [volatility-filevault2](https://github.com/tribalchicken/volatility-filevault2)
 * [Rekall](https://github.com/google/rekall)
 * [DAMM](https://github.com/504ensicsLabs/DAMM) - An open source memory analysis tool built on top of Volatility.
 * [VolUtilty](https://github.com/kevthehermit/VolUtility/)

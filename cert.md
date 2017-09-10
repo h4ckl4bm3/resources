@@ -13,6 +13,10 @@ Links related to CERT and incident response.
 * [Security Onion](https://securityonion.net)
 * [DBAN](http://dban.org/) - when you need to wipe data.
 
+## Exploits and techniques 
+
+* [Ten Process Injection Techniques: A Technical Survey of Common and Trending Process Injection Techniques](https://www.endgame.com/blog/technical-blog/ten-process-injection-techniques-technical-survey-common-and-trending-process)
+
 ## Hunting
 
 * [The ThreatHunting Project](https://github.com/ThreatHuntingProject/ThreatHunting) - TODO
@@ -100,7 +104,6 @@ The Australian Signals Directorate has a good collection of recommendations.
 
 * [Ransomware Tracker](https://ransomwaretracker.abuse.ch/)
 
-
 ## Reversing
 
 * [Radare2](https://github.com/radare/radare2)
@@ -127,7 +130,7 @@ Some useful commands and demos for presentations.
     tshark -i $interface -n -l subtype probereq | tee -a /tmp/ssids.tmp     # get questins for SSID's
     ```
 
-## Virus samples
+## Virus and malware samples
 
 * [support.clean-mx.de/clean-mx/viruses.php](http://support.clean-mx.de/clean-mx/viruses.php)
 * [threatglass.com/](http://threatglass.com/) - Threatglass by Barracuda (NYSE: CUDA) is an online tool for sharing, browsing and analyzing web-based malware.
@@ -137,4 +140,4 @@ Some useful commands and demos for presentations.
 * [www.tekdefense.com/downloads/malware-samples/](http://www.tekdefense.com/downloads/malware-samples/)
 * [zeltser.com/malware-sample-sources/](https://zeltser.com/malware-sample-sources/)
 * [malwaria.cf](http://108.59.83.152/)
-
+* [Mac Malware](https://objective-see.com/malware.html) from Objective See
