@@ -25,6 +25,7 @@ A good document to start to read is [IR A-Z](https://drive.google.com/file/d/0B0
     - [Volatility Autopsy Plugin Module](https://github.com/markmckinnon/Autopsy-Plugins/tree/master/Volatility) and a [blog](https://medium.com/@markmckinnon_80619/volatility-autopsy-plugin-module-8beecea6396) post about it
 * [log2timeline](https://github.com/log2timeline/plaso/wiki/Using-log2timeline)
 * [Timesketch](https://github.com/google/timesketch) - look at timeline of events
+* [mac-robber.py](https://github.com/att/docker-forensics/blob/master/mac-robber.py) - rewrite of the sleithkit mac-robber in Python
 
 ### Analyze files on disk
 
@@ -57,6 +58,7 @@ A good document to start to read is [IR A-Z](https://drive.google.com/file/d/0B0
     * [volatility-autoruns](https://github.com/tomchop/volatility-autoruns)
     * [volatility-plugins](https://github.com/superponible/volatility-plugins)
     * [volatility-filevault2](https://github.com/tribalchicken/volatility-filevault2)
+    * [Volatility plugin tutorial](https://github.com/iAbadia/Volatility-Plugin-Tutorial) - Development guide for Volatility Plugins
 * [Rekall](https://github.com/google/rekall)
 * [DAMM](https://github.com/504ensicsLabs/DAMM) - An open source memory analysis tool built on top of Volatility.
 * [VolUtilty](https://github.com/kevthehermit/VolUtility/)
