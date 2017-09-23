@@ -85,6 +85,7 @@ Remember to always consider if you are allowed too upload a file or pcap. You sh
 * [osintframework](http://osintframework.com/) - Good collection with nice GUI for presentation
 * [IntelTechniques.com](https://inteltechniques.com/intel/menu.html) - Lots of links to many resources
 * [Onstrat.com](http://www.onstrat.com/osint/) - Links for OSINT
+* [Creepy](http://www.geocreepy.com/) - A Geolocation OSINT Tool. Offers geolocation information gathering through social networking platforms.
 
 ## Planing and prevention
 
