@@ -154,6 +154,13 @@ Other resources:
     ZoneId=3
     ```
 
+### Powershell
+
+* Interactive grep with [Powershell](https://github.com/powershell/powershell).
+    ```bash
+    Get-Process | Out-GridView -PassThru | Export-Csv -Path .\ProcessLog.csv
+    ```
+
 ## Yara and Clamav
 
 * Scan files and files that are packed or compressed with tar/gz/bz/zip etc:
