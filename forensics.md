@@ -109,7 +109,7 @@ A good document to start to read is [IR A-Z](https://drive.google.com/file/d/0B0
 * Windows 10
     - [Windows 10 artifacts](http://cyberforensicator.com/2017/02/07/windows-10-forensics/)
 * [SCCM and CCM_RectentlyUsedApps](http://blog.4n6ir.com/2017/02/secret-archives-of-execution-evidence.html) and [CCM_RecentlyUsedApps Properties & Forensics](http://blog.4n6ir.com/2017/03/ccmrecentlyusedapps-properties-forensics.html)
-* [AmCache](https://windowsir.blogspot.se/2017/03/incorporating-amcache-data-into.html)
+* [AmCache](https://windowsir.blogspot.se/2017/03/incorporating-amcache-data-into.html) and updated for [Windows 10 Fall Creators update](https://binaryforay.blogspot.se/2017/10/amcache-still-rules-everything-around.html)
 * [Shim](https://www.fireeye.com/blog/threat-research/2017/05/fin7-shim-databases-persistence.html)
 
 ### Windows guides and tips
