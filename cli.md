@@ -6,6 +6,7 @@ General command line tips:
 
 ## Bash and general unix
 
+* [F’Awk Yeah! Advanced sed and awk Usage](https://posts.specterops.io/fawk-yeah-advanced-sed-and-awk-usage-parsing-for-pentesters-3-e5727e11a8ad)
 * Recursive DNS search with dig
     ```bash
     dig +recurse +trace kernel.org
