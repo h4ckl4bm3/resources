@@ -4,6 +4,12 @@
 
 * [RingZer0 Team Online CTF](https://ringzer0team.com/home)
 
+## Microsoft
+
+* [Eval center](https://www.microsoft.com/en-us/evalcenter/)
+* [MSDN license keys (for subscribers)](https://my.visualstudio.com/productkeys)
+* [MSDN downloads (for subscribers)](https://my.visualstudio.com/downloads/featured)
+
 ## Numbers everyone should know.
 
 | Action                              | Time           |
