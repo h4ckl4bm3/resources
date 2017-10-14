@@ -12,6 +12,7 @@
 
 * [Amazon AWS](https://console.aws.amazon.com/)
 * [aws_ir](https://github.com/ThreatResponse/aws_ir) - Python installable command line utiltity for mitigation of host and key compromises.
+* [Free tools for auditing the security of an AWS account](https://summitroute.com/blog/2017/05/30/free_tools_for_auditing_the_security_of_an_aws_account/)
 
 ## DigitalOcean
 
