@@ -80,6 +80,7 @@ Remember to always consider if you are allowed too upload a file or pcap. You sh
 * [Sysmon](https://technet.microsoft.com/en-us/sysinternals/sysmon )
 * [Explaining and adapting Tay’s Sysmon configuration](https://medium.com/@lennartkoopmann/explaining-and-adapting-tays-sysmon-configuration-27d9719a89a8#.xv8jf8tjr)
 * [Bloodhound](https://github.com/BloodHoundAD/BloodHound) - BloodHound uses graph theory to reveal the hidden and often unintended relationships within an Active Directory environment.
+* [Revoke-Obfuscation](https://github.com/danielbohannon/Revoke-Obfuscation) - PowerShell Obfuscation Detection Framework
 
 ## OSINT Resource lists
 
