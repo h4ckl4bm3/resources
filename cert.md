@@ -102,6 +102,7 @@ The Australian Signals Directorate has a good collection of recommendations.
 * [Bro](https://bro.org/) - Bro IDS
 * [Cuckoo Sandbox](https://www.cuckoosandbox.org/)
 * [Yara](https://virustotal.github.io/yara/) - and use it with clamscan to search in zip/tar/gz/bz and more.
+* [libyal](https://github.com/libyal/libyal/wiki/Overview) - Yet another library library (and tools)
 
 ## Ransomware
 
