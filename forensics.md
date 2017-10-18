@@ -17,6 +17,7 @@ A good document to start to read is [IR A-Z](https://drive.google.com/file/d/0B0
 
 ### Low level tools
 * [TestDisk](http://www.cgsecurity.org/wiki/TestDisk) by CGSecurity
+* [dislocker](http://www.hsc.fr/ressources/outils/dislocker/download/) - decrypt Bitlocker on Linux
 
 ### Time line and tools
 * [The Sleuth Kit (TSK)](http://www.sleuthkit.org/sleuthkit/)
