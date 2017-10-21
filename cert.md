@@ -41,6 +41,7 @@ New section to start to add items that should be logged and monitored.
 
 * [Detecting Kerberoasting Activity](https://adsecurity.org/?p=3458) - by [adsecurity.org](https://adsecurity.org)
 * [Detecting Offensive PowerShell Attack Tools](https://adsecurity.org/?p=2604) - by [adsecurity.org](https://adsecurity.org)
+* [Basics of Tracking WMI Activity](https://www.darkoperator.com/blog/2017/10/14/basics-of-tracking-wmi-activity)
 
 ## Malware analysis
 
